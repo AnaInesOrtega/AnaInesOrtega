@@ -19,3 +19,27 @@
 📫 **Contáctame**: Conéctate conmigo en [www.linkedin.com/in/anainesortegads] ¡y hagamos crecer nuestros sueños de datos juntos!
 
 Recuerda, cada línea de código y cada conjunto de datos encierran una historia. ¡Vamos a desentrañar esas historias juntos! 📚🔍🌟
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🌱 Hi, I'm Ana! 🌱
+
+👩‍🌾 As an agricultural engineer turned data enthusiast, I'm on an exciting journey to cultivate insights from the vast fields of data. My passion for understanding and extracting value from data has led me to embark on a transformative career shift towards data analysis and science.
+
+🔬 **Exploring the Data Universe**: Armed with a background in agronomy, I bring a unique perspective to the realm of data. My journey involves delving into datasets, sowing the seeds of analysis, and harvesting valuable insights. 📊🌾
+
+🌐 **Connecting the Dots**: I thrive on finding patterns within the chaos of data. My goal is to connect the dots, uncover hidden stories, and present actionable insights that empower decision-making across various domains. 🔍📈
+
+📚 **Continuous Learning Advocate**: Just like nurturing crops requires constant attention, so does expanding my data skills. You'll often find me learning about the latest tools, techniques, and best practices in data science. 🧠📖
+
+🧩 **Problem Solver**: Complex problems are like puzzles, and I love solving puzzles. Whether it's predicting crop yields or analyzing market trends, I enjoy applying data-driven solutions to real-world challenges. 🧩🔑
+
+🚀 **Open Source Enthusiast**: I believe in the power of collaboration and knowledge sharing. You'll find some of my projects here, where I aim to contribute to open-source initiatives that make a positive impact. 👥🌍
+
+🌈 **Diversity in Data**: Just as a diverse ecosystem enhances resilience, diverse perspectives enrich data analysis. I actively support and engage in initiatives that promote inclusivity and diversity in the tech and data communities. 🌏🤝
+
+🎯 **Future Endeavors**: I'm always looking to explore new horizons in data science, from machine learning and AI to data visualization and beyond. If you're interested in collaborating or discussing data-driven ideas, feel free to reach out! Let's create something amazing together. 🌠💬
+
+📫 **Get in Touch**: Connect with me on [www.linkedin.com/in/anainesortegads] and let's grow our data dreams together!
+
+Remember, every line of code and every dataset holds a story. Let's unravel those stories together! 📚🔍🌟
