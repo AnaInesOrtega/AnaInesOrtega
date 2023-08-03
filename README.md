@@ -16,6 +16,6 @@
 
 🎯 **Futuros Proyectos**: Siempre estoy buscando explorar nuevos horizontes en la ciencia de datos, desde el aprendizaje automático y la inteligencia artificial hasta la visualización de datos y más. ¡Si estás interesado/a en colaborar o discutir ideas basadas en datos, no dudes en contactarme! Creemos algo increíble juntos. 🌠💬
 
-📫 **Contáctame**: Conéctate conmigo en [linkedin.com/in/anainesortegads] ¡y hagamos crecer nuestros sueños de datos juntos!
+📫 **Contáctame**: Conéctate conmigo en [www.linkedin.com/in/anainesortegads] ¡y hagamos crecer nuestros sueños de datos juntos!
 
 Recuerda, cada línea de código y cada conjunto de datos encierran una historia. ¡Vamos a desentrañar esas historias juntos! 📚🔍🌟
